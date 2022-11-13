@@ -1,0 +1,55 @@
+body{
+    background-color: #017972;
+}
+#logotac{
+    margin-bottom: -10px;
+    width: 40px;
+    height: 40px;
+    -webkit-text-fill-color: white;
+}
+#logo{
+    
+    font: size 40px;
+}
+.left{
+    width: 650px;
+    background-color:lightblue ;
+    height: 525px;
+    margin-top: -50px;
+}
+.formheight{
+    height: 500px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 5%;
+    border: 2px solid black;
+}
+#int{
+    margin-left: 110px;
+    color: blue;
+    font-size: 50px;
+    
+}
+.check{
+    margin-left: 50px;
+}
+#blue{
+    color: blue;   
+}
+div.right{
+    margin-left: 660px;
+    margin-top: -530px;
+    margin-bottom: -100px;
+}
+#textarea{
+    resize: none;
+    border-radius: 12px;
+    margin-left: 100px;
+    margin-top: -200px;
+}
+#margin{
+    margin-left: 50px;
+}
+#reg{
+    border: 1px solid black;
+}

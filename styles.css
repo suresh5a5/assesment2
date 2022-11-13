@@ -1,0 +1,68 @@
+body{
+    background-color: #ffdaa4;
+}
+img{
+    margin-bottom: -30px;
+    width: 80px;
+    height: 80px;
+    }
+.logo{
+    font-size: 40px;
+}
+
+.leftside{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 1000px;
+}
+#regbut{
+    background-color: #f90;
+    border-color: #f90;
+    border-radius: 5px;
+    width: 200px;
+    color: white;
+    font-size:25px;
+}
+#aboutbut{
+    background-color: #ca7900;
+    border-color: #ca7900;
+    border-radius: 5px;
+    width: 200px;
+    color: white;
+    font-size: 25px;
+
+}
+.rightside{
+    margin-left: 550px;
+    margin-top: -165px;
+    
+}
+#formset{
+    background-color: rgb(219, 211, 211);
+    width: 730px;
+    height: 425px;
+   
+}
+#fields{
+    border-radius: 5px;
+    
+    width: 700px;
+    height: 400px;
+
+}
+#butons{
+    margin-left: 50px;
+}
+#loginbut{
+    margin-left: 200px;
+    width: 150px;
+    height: 40px ;
+    border-radius: 7px;
+    font-size: 20px;
+}
+#user{
+    margin-left: 100px;
+}
+#pass{
+    margin-left: 87px;
+}

@@ -1,0 +1,48 @@
+body{
+    background-image: url(449895.jpg);
+}
+#logo{
+    margin-bottom: -10px;
+    width: 35px;
+    height: 35px;
+}
+#text{
+    font-size: 25px;
+    color: white;
+}
+h1{
+    color: red;
+    margin-left: 50px;
+    font-size: 60px;
+}
+.center{
+    margin-left: 250px;
+    margin-right: 50px;
+    border-radius: 10px;
+    box-shadow: 3px;
+    background-color: rgba(141, 156, 0, 0.603);
+}
+img{
+    margin-left: 30px;
+    margin-top: 15px;
+    width: 100px;
+    height: 100px;
+
+}
+#BH{
+    color: white;
+    background-color: #e61a39;
+    margin-left: 20px;
+    width: 800px;
+}
+#UP{
+    color: white;
+    margin-left: 20px;
+    background-color: rgba(7, 7, 94, 0.863);
+}
+#LEM{
+    color: white;
+    margin-left: 20px;
+    background-color: #f8072b;
+
+}
